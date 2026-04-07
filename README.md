@@ -69,28 +69,8 @@
 </p>
 
 
-<table>
-  <tr>
-<td align="center" valign="top">
-&nbsp;
-</td>
-<td align="center" valign="top">
-&nbsp;
-</td>
-  </tr>
-  <tr>
-<td align="center" valign="top">
-&nbsp;
-</td>
-<td align="center" valign="top">
-&nbsp;
-</td>
-  </tr>
-</table>
-
-
 <p align="center">
-  <img src="https://githance.in/api/render?type=contribution-heatmap&variant=neon&v=rect-v4&user=seelam-mohith&range=yearly" alt="Contribution graph" />
+  <img src="https://githance.in/api/render?type=contribution-heatmap&variant=sunset&v=rect-v4&user=seelam-mohith&range=monthly" alt="Contribution graph" />
 </p>
 
 
