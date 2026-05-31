@@ -49,7 +49,6 @@
 ### Databases:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
   <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
