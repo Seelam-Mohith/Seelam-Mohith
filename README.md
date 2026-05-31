@@ -70,12 +70,6 @@
 </p>
 
 
-
-<p align="center">
-  <img src="https://githance.in/api/render?type=contribution-heatmap&variant=neon&v=rect-v4&user=seelam-mohith&range=yearly" alt="Contribution graph" />
-</p>
-
-
 <p align="center">
   <img src="https://githance.in/api/render?type=footer&banner_id=banner-6&w=1600&h=240" alt="Footer banner 06" width="800" />
 </p>
