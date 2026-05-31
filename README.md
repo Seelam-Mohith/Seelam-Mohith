@@ -10,10 +10,6 @@ Currently, I am focused on strengthening my expertise in Data Structures & Algor
 
 ## Tech Stack
 
-## Tech Stack
-
-
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
@@ -44,9 +40,5 @@ Currently, I am focused on strengthening my expertise in Data Structures & Algor
 
 ## Connect
 
-* GitHub: https://github.com/seelam-mohith
 * LinkedIn: https://www.linkedin.com/in/mohith-seelam/
 
-
-  <img src="https://githance.in/api/render?type=footer&banner_id=banner-6&w=1600&h=240" alt="Footer banner 06" width="800" />
-</p>
