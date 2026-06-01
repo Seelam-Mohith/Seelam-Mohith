@@ -41,4 +41,5 @@ Currently, I am focused on strengthening my expertise in Data Structures & Algor
 ## Connect
 
 * LinkedIn: https://www.linkedin.com/in/mohith-seelam/
+* Email: seelammohith2222@gmail.com
 
