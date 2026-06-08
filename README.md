@@ -8,6 +8,8 @@ My primary tech stack includes JavaScript, Python, Java, React, Node.js, Express
 
 Currently, I am focused on strengthening my expertise in Data Structures & Algorithms, Full Stack Development, AI/ML, and Cybersecurity while actively contributing to GitHub and building real-world projects.
 
+I'm currently working on DevSync, a platform aimed at creating a healthy competitive coding ecosystem among friends, encouraging consistency, skill development, and mutual growth.
+
 ## Tech Stack
 
 <p align="left">
