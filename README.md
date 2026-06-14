@@ -12,35 +12,19 @@ I'm currently working on DevSync, a platform aimed at creating a healthy competi
 
 ## Tech Stack
 
-<table>
-  <tr>
-    <td valign="top" width="45%" cellpadding="20">
-
-### Languages
+<h4>Languages</h4>
 <img src="https://skillicons.dev/icons?i=html,css,js,py,java" />
 
-<br><br>
-
-### Databases & Cloud
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,firebase,vercel" />
-
-    </td>
-
-    <td width="10%"></td>
-
-    <td valign="top" width="45%">
-
-### Frameworks & Libraries
+<h4>Frameworks & Libraries</h4>
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,vite" />
 
-<br><br>
+<h4>Databases & Cloud</h4>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,firebase,vercel" />
 
-### Tools & Environment
+<h4>Tools & Environment</h4>
 <img src="https://skillicons.dev/icons?i=git,vscode,linux,ubuntu,figma" />
 
-    </td>
-  </tr>
-</table>
+
 ## Connect
 
 * LinkedIn: https://www.linkedin.com/in/mohith-seelam/
