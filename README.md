@@ -14,7 +14,7 @@ I'm currently working on DevSync, a platform aimed at creating a healthy competi
 
 <table>
 <tr>
-<td>
+<td valign="top" width="50%">
 
 ### Languages
 <img src="https://skillicons.dev/icons?i=html,css,js,py,java" />
