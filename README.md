@@ -14,23 +14,22 @@ I'm currently working on DevSync, a platform aimed at creating a healthy competi
 
 <table>
 <tr>
-<td valign="top" width="50%">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=html,css,js,py,java" />
+<img src="https://skillicons.dev/icons?i=html,css,js,py,java" width="36" height="36"/>
 
 ### Databases & Cloud
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,firebase,vercel" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,firebase,vercel" width="36" height="36"/>
 
 </td>
 
 <td>
 
 ### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,vite" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,vite" width="36" height="36"/>
 
 ### Tools & Environment
-<img src="https://skillicons.dev/icons?i=git,vscode,linux,ubuntu,figma" />
+<img src="https://skillicons.dev/icons?i=git,vscode,linux,ubuntu,figma" width="36" height="36"/>
 
 </td>
 </tr>
