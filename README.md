@@ -13,55 +13,28 @@ I'm currently working on DevSync, a platform aimed at creating a healthy competi
 ## Tech Stack
 
 <table>
-  <tr>
-    <td valign="top" width="50%">
-      <h4>Languages</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=html" width="36" height="36" />
-        <img src="https://skillicons.dev/icons?i=css" width="36" height="36" />
-        <img src="https://skillicons.dev/icons?i=js" width="36" height="36" />
-        <img src="https://skillicons.dev/icons?i=py" width="36" height="36" />
-        <img src="https://skillicons.dev/icons?i=java" width="36" height="36" />
-      </p>
-    </td>
+<tr>
+<td>
 
-    <td valign="top" width="50%">
-      <h4>Frameworks & Libraries</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=react" width="36" height="36" />
-        <img src="https://skillicons.dev/icons?i=nodejs" width="36" height="36" />
-        <img src="https://skillicons.dev/icons?i=express" width="36" height="36" />
-        <img src="https://skillicons.dev/icons?i=flask" width="36" height="36" />
-        <img src="https://skillicons.dev/icons?i=vite" width="36" height="36" />
-      </p>
-    </td>
-  </tr>
+#### Languages
+<img src="https://skillicons.dev/icons?i=html,css,js,py,java" />
 
-  <tr>
-    <td valign="top">
-      <h4>Databases & Cloud</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=mongodb" width="36" height="36" />
-        <img src="https://skillicons.dev/icons?i=mysql" width="36" height="36" />
-        <img src="https://skillicons.dev/icons?i=supabase" width="36" height="36" />
-        <img src="https://skillicons.dev/icons?i=firebase" width="36" height="36" />
-        <img src="https://skillicons.dev/icons?i=vercel" width="36" height="36" />
-      </p>
-    </td>
+#### Databases & Cloud
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,firebase,vercel" />
 
-    <td valign="top">
-      <h4>Tools & Environment</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=git" width="36" height="36" />
-        <img src="https://skillicons.dev/icons?i=vscode" width="36" height="36" />
-        <img src="https://skillicons.dev/icons?i=linux" width="36" height="36" />
-        <img src="https://skillicons.dev/icons?i=ubuntu" width="36" height="36" />
-        <img src="https://skillicons.dev/icons?i=figma" width="36" height="36" />
-      </p>
-    </td>
-  </tr>
+</td>
+
+<td>
+
+#### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,vite" />
+
+#### Tools & Environment
+<img src="https://skillicons.dev/icons?i=git,vscode,linux,ubuntu,figma" />
+
+</td>
+</tr>
 </table>
-
 ## Connect
 
 * LinkedIn: https://www.linkedin.com/in/mohith-seelam/
