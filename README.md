@@ -12,41 +12,55 @@ I'm currently working on DevSync, a platform aimed at creating a healthy competi
 
 ## Tech Stack
 
-<h4>Languages</h4>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="36" height="36" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="36" height="36" />
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="36" height="36" />
-  <img src="https://skillicons.dev/icons?i=py" alt="Python" width="36" height="36" />
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="36" height="36" />
-</p>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>Languages</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=html" width="36" height="36" />
+        <img src="https://skillicons.dev/icons?i=css" width="36" height="36" />
+        <img src="https://skillicons.dev/icons?i=js" width="36" height="36" />
+        <img src="https://skillicons.dev/icons?i=py" width="36" height="36" />
+        <img src="https://skillicons.dev/icons?i=java" width="36" height="36" />
+      </p>
+    </td>
 
-<h4>Frameworks & Libraries</h4>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="36" height="36" />
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="36" height="36" />
-  <img src="https://skillicons.dev/icons?i=express" alt="Express" width="36" height="36" />
-  <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="36" height="36" />
-  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="36" height="36" />
-</p>
+    <td valign="top" width="50%">
+      <h4>Frameworks & Libraries</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=react" width="36" height="36" />
+        <img src="https://skillicons.dev/icons?i=nodejs" width="36" height="36" />
+        <img src="https://skillicons.dev/icons?i=express" width="36" height="36" />
+        <img src="https://skillicons.dev/icons?i=flask" width="36" height="36" />
+        <img src="https://skillicons.dev/icons?i=vite" width="36" height="36" />
+      </p>
+    </td>
+  </tr>
 
-<h4>Databases & Cloud</h4>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="36" height="36" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="36" height="36" />
-  <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="36" height="36" />
-  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="36" height="36" />
-  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="36" height="36" />
-</p>
+  <tr>
+    <td valign="top">
+      <h4>Databases & Cloud</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=mongodb" width="36" height="36" />
+        <img src="https://skillicons.dev/icons?i=mysql" width="36" height="36" />
+        <img src="https://skillicons.dev/icons?i=supabase" width="36" height="36" />
+        <img src="https://skillicons.dev/icons?i=firebase" width="36" height="36" />
+        <img src="https://skillicons.dev/icons?i=vercel" width="36" height="36" />
+      </p>
+    </td>
 
-<h4>Tools & Environment</h4>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="36" height="36" />
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="36" height="36" />
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="36" height="36" />
-  <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="36" height="36" />
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="36" height="36" />
-</p>
+    <td valign="top">
+      <h4>Tools & Environment</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=git" width="36" height="36" />
+        <img src="https://skillicons.dev/icons?i=vscode" width="36" height="36" />
+        <img src="https://skillicons.dev/icons?i=linux" width="36" height="36" />
+        <img src="https://skillicons.dev/icons?i=ubuntu" width="36" height="36" />
+        <img src="https://skillicons.dev/icons?i=figma" width="36" height="36" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## Connect
 
