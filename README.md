@@ -16,45 +16,21 @@ I'm currently working on DevSync, a platform aimed at creating a healthy competi
 <tr>
 <td>
 
-<h3>Languages</h3>
+#### Languages
+<img src="https://skillicons.dev/icons?i=html,css,js,py,java" />
 
-<img src="https://skillicons.dev/icons?i=html" width="42" height="42" />
-<img src="https://skillicons.dev/icons?i=css" width="42" height="42" />
-<img src="https://skillicons.dev/icons?i=js" width="42" height="42" />
-<img src="https://skillicons.dev/icons?i=py" width="42" height="42" />
-<img src="https://skillicons.dev/icons?i=java" width="42" height="42" />
-
-<br><br>
-
-<h3>Databases & Cloud</h3>
-
-<img src="https://skillicons.dev/icons?i=mongodb" width="42" height="42" />
-<img src="https://skillicons.dev/icons?i=mysql" width="42" height="42" />
-<img src="https://skillicons.dev/icons?i=supabase" width="42" height="42" />
-<img src="https://skillicons.dev/icons?i=firebase" width="42" height="42" />
-<img src="https://skillicons.dev/icons?i=vercel" width="42" height="42" />
+#### Databases & Cloud
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,firebase,vercel" />
 
 </td>
 
 <td>
 
-<h3>Frameworks & Libraries</h3>
+#### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,vite" />
 
-<img src="https://skillicons.dev/icons?i=react" width="42" height="42" />
-<img src="https://skillicons.dev/icons?i=nodejs" width="42" height="42" />
-<img src="https://skillicons.dev/icons?i=express" width="42" height="42" />
-<img src="https://skillicons.dev/icons?i=flask" width="42" height="42" />
-<img src="https://skillicons.dev/icons?i=vite" width="42" height="42" />
-
-<br><br>
-
-<h3>Tools & Environment</h3>
-
-<img src="https://skillicons.dev/icons?i=git" width="42" height="42" />
-<img src="https://skillicons.dev/icons?i=vscode" width="42" height="42" />
-<img src="https://skillicons.dev/icons?i=linux" width="42" height="42" />
-<img src="https://skillicons.dev/icons?i=ubuntu" width="42" height="42" />
-<img src="https://skillicons.dev/icons?i=figma" width="42" height="42" />
+#### Tools & Environment
+<img src="https://skillicons.dev/icons?i=git,vscode,linux,ubuntu,figma" />
 
 </td>
 </tr>
