@@ -16,20 +16,20 @@ I'm currently working on DevSync, a platform aimed at creating a healthy competi
 <tr>
 <td>
 
-#### Languages
+### Languages
 <img src="https://skillicons.dev/icons?i=html,css,js,py,java" />
 
-#### Databases & Cloud
+### Databases & Cloud
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,firebase,vercel" />
 
 </td>
 
 <td>
 
-#### Frameworks & Libraries
+### Frameworks & Libraries
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,vite" />
 
-#### Tools & Environment
+### Tools & Environment
 <img src="https://skillicons.dev/icons?i=git,vscode,linux,ubuntu,figma" />
 
 </td>
