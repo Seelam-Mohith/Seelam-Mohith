@@ -22,47 +22,36 @@ I'm currently working on DevSync, a platform aimed at creating a healthy competi
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="44" height="44" />
 </p>
 
-<h3>Frontend Development</h3>
+<h3>Frameworks & Libraries</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="44" height="44" />
-</p>
-
-<h3>Backend Development</h3>
-<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="44" height="44" />
   <img src="https://skillicons.dev/icons?i=express" alt="Express" width="44" height="44" />
   <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="44" height="44" />
   <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="44" height="44" />
 </p>
 
-<h3>Databases & BaaS</h3>
+<h3>Databases & Cloud</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="44" height="44" />
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="44" height="44" />
   <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="44" height="44" />
   <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="44" height="44" />
-</p>
-
-<h3>Tools & Version Control</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="44" height="44" />
-</p>
-
-<h3>Deployment & Hosting</h3>
-<p align="left">
   <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="44" height="44" />
   <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" width="44" height="44" />
 </p>
 
-<h3>Operating Systems</h3>
+<h3>Tools & Environment</h3>
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="44" height="44" />
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="44" height="44" />
   <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="44" height="44" />
 </p>
+
 
 ## Connect
 
