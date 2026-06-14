@@ -14,44 +14,43 @@ I'm currently working on DevSync, a platform aimed at creating a healthy competi
 
 <h4>Languages</h4>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=py" alt="Python" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="36" height="36" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="36" height="36" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="36" height="36" />
+  <img src="https://skillicons.dev/icons?i=py" alt="Python" width="36" height="36" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="36" height="36" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="36" height="36" />
 </p>
 
 <h4>Frameworks & Libraries</h4>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=express" alt="Express" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="36" height="36" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="36" height="36" />
+  <img src="https://skillicons.dev/icons?i=express" alt="Express" width="36" height="36" />
+  <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="36" height="36" />
+  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="36" height="36" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="36" height="36" />
+  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="36" height="36" />
 </p>
 
 <h4>Databases & Cloud</h4>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="36" height="36" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="36" height="36" />
+  <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="36" height="36" />
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="36" height="36" />
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="36" height="36" />
+  <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" width="36" height="36" />
 </p>
 
 <h4>Tools & Environment</h4>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="36" height="36" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="36" height="36" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="36" height="36" />
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="36" height="36" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="36" height="36" />
 </p>
-
 
 ## Connect
 
