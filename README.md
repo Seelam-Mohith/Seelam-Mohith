@@ -14,7 +14,7 @@ I'm currently working on DevSync, a platform aimed at creating a healthy competi
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td>
 
 <h3>Languages</h3>
 
@@ -36,7 +36,7 @@ I'm currently working on DevSync, a platform aimed at creating a healthy competi
 
 </td>
 
-<td valign="top" width="50%">
+<td>
 
 <h3>Frameworks & Libraries</h3>
 
