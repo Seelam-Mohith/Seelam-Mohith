@@ -12,23 +12,51 @@ I'm currently working on DevSync, a platform aimed at creating a healthy competi
 
 ## Tech Stack
 
+## Tech Stack
+
 <table>
 <tr>
+<td valign="top" width="50%">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=html,css,js,py,java" width="180" height="180"/>
+<b>Languages</b><br>
 
-### Databases & Cloud
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,firebase,vercel" width="180" height="180"/>
+<img src="https://skillicons.dev/icons?i=html" width="36" height="36" />
+<img src="https://skillicons.dev/icons?i=css" width="36" height="36" />
+<img src="https://skillicons.dev/icons?i=js" width="36" height="36" />
+<img src="https://skillicons.dev/icons?i=py" width="36" height="36" />
+<img src="https://skillicons.dev/icons?i=java" width="36" height="36" />
+
+<br><br>
+
+<b>Databases & Cloud</b><br>
+
+<img src="https://skillicons.dev/icons?i=mongodb" width="36" height="36" />
+<img src="https://skillicons.dev/icons?i=mysql" width="36" height="36" />
+<img src="https://skillicons.dev/icons?i=supabase" width="36" height="36" />
+<img src="https://skillicons.dev/icons?i=firebase" width="36" height="36" />
+<img src="https://skillicons.dev/icons?i=vercel" width="36" height="36" />
 
 </td>
 
-<td>
+<td valign="top" width="50%">
 
-### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,vite" width="180" height="180"/>
-### Tools & Environment
-<img src="https://skillicons.dev/icons?i=git,vscode,linux,ubuntu,figma" width="180" height="180"/>
+<b>Frameworks & Libraries</b><br>
+
+<img src="https://skillicons.dev/icons?i=react" width="36" height="36" />
+<img src="https://skillicons.dev/icons?i=nodejs" width="36" height="36" />
+<img src="https://skillicons.dev/icons?i=express" width="36" height="36" />
+<img src="https://skillicons.dev/icons?i=flask" width="36" height="36" />
+<img src="https://skillicons.dev/icons?i=vite" width="36" height="36" />
+
+<br><br>
+
+<b>Tools & Environment</b><br>
+
+<img src="https://skillicons.dev/icons?i=git" width="36" height="36" />
+<img src="https://skillicons.dev/icons?i=vscode" width="36" height="36" />
+<img src="https://skillicons.dev/icons?i=linux" width="36" height="36" />
+<img src="https://skillicons.dev/icons?i=ubuntu" width="36" height="36" />
+<img src="https://skillicons.dev/icons?i=figma" width="36" height="36" />
 
 </td>
 </tr>
