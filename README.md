@@ -12,51 +12,49 @@ I'm currently working on DevSync, a platform aimed at creating a healthy competi
 
 ## Tech Stack
 
-## Tech Stack
-
 <table>
 <tr>
 <td valign="top" width="50%">
 
-<b>Languages</b><br>
+<h3>Languages</h3>
 
-<img src="https://skillicons.dev/icons?i=html" width="36" height="36" />
-<img src="https://skillicons.dev/icons?i=css" width="36" height="36" />
-<img src="https://skillicons.dev/icons?i=js" width="36" height="36" />
-<img src="https://skillicons.dev/icons?i=py" width="36" height="36" />
-<img src="https://skillicons.dev/icons?i=java" width="36" height="36" />
+<img src="https://skillicons.dev/icons?i=html" width="42" height="42" />
+<img src="https://skillicons.dev/icons?i=css" width="42" height="42" />
+<img src="https://skillicons.dev/icons?i=js" width="42" height="42" />
+<img src="https://skillicons.dev/icons?i=py" width="42" height="42" />
+<img src="https://skillicons.dev/icons?i=java" width="42" height="42" />
 
 <br><br>
 
-<b>Databases & Cloud</b><br>
+<h3>Databases & Cloud</h3>
 
-<img src="https://skillicons.dev/icons?i=mongodb" width="36" height="36" />
-<img src="https://skillicons.dev/icons?i=mysql" width="36" height="36" />
-<img src="https://skillicons.dev/icons?i=supabase" width="36" height="36" />
-<img src="https://skillicons.dev/icons?i=firebase" width="36" height="36" />
-<img src="https://skillicons.dev/icons?i=vercel" width="36" height="36" />
+<img src="https://skillicons.dev/icons?i=mongodb" width="42" height="42" />
+<img src="https://skillicons.dev/icons?i=mysql" width="42" height="42" />
+<img src="https://skillicons.dev/icons?i=supabase" width="42" height="42" />
+<img src="https://skillicons.dev/icons?i=firebase" width="42" height="42" />
+<img src="https://skillicons.dev/icons?i=vercel" width="42" height="42" />
 
 </td>
 
 <td valign="top" width="50%">
 
-<b>Frameworks & Libraries</b><br>
+<h3>Frameworks & Libraries</h3>
 
-<img src="https://skillicons.dev/icons?i=react" width="36" height="36" />
-<img src="https://skillicons.dev/icons?i=nodejs" width="36" height="36" />
-<img src="https://skillicons.dev/icons?i=express" width="36" height="36" />
-<img src="https://skillicons.dev/icons?i=flask" width="36" height="36" />
-<img src="https://skillicons.dev/icons?i=vite" width="36" height="36" />
+<img src="https://skillicons.dev/icons?i=react" width="42" height="42" />
+<img src="https://skillicons.dev/icons?i=nodejs" width="42" height="42" />
+<img src="https://skillicons.dev/icons?i=express" width="42" height="42" />
+<img src="https://skillicons.dev/icons?i=flask" width="42" height="42" />
+<img src="https://skillicons.dev/icons?i=vite" width="42" height="42" />
 
 <br><br>
 
-<b>Tools & Environment</b><br>
+<h3>Tools & Environment</h3>
 
-<img src="https://skillicons.dev/icons?i=git" width="36" height="36" />
-<img src="https://skillicons.dev/icons?i=vscode" width="36" height="36" />
-<img src="https://skillicons.dev/icons?i=linux" width="36" height="36" />
-<img src="https://skillicons.dev/icons?i=ubuntu" width="36" height="36" />
-<img src="https://skillicons.dev/icons?i=figma" width="36" height="36" />
+<img src="https://skillicons.dev/icons?i=git" width="42" height="42" />
+<img src="https://skillicons.dev/icons?i=vscode" width="42" height="42" />
+<img src="https://skillicons.dev/icons?i=linux" width="42" height="42" />
+<img src="https://skillicons.dev/icons?i=ubuntu" width="42" height="42" />
+<img src="https://skillicons.dev/icons?i=figma" width="42" height="42" />
 
 </td>
 </tr>
