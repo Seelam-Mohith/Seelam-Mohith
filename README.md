@@ -12,18 +12,29 @@ I'm currently working on DevSync, a platform aimed at creating a healthy competi
 
 ## Tech Stack
 
-<h4>Languages</h4>
+<table>
+<tr>
+<td>
+
+#### Languages
 <img src="https://skillicons.dev/icons?i=html,css,js,py,java" />
 
-<h4>Frameworks & Libraries</h4>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,vite" />
-
-<h4>Databases & Cloud</h4>
+#### Databases & Cloud
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,firebase,vercel" />
 
-<h4>Tools & Environment</h4>
+</td>
+
+<td>
+
+#### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,vite" />
+
+#### Tools & Environment
 <img src="https://skillicons.dev/icons?i=git,vscode,linux,ubuntu,figma" />
 
+</td>
+</tr>
+</table>
 
 ## Connect
 
