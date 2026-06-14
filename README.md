@@ -12,7 +12,7 @@ I'm currently working on DevSync, a platform aimed at creating a healthy competi
 
 ## Tech Stack
 
-<h3>Languages</h3>
+<h4>Languages</h4>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="44" height="44" />
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="44" height="44" />
@@ -22,7 +22,7 @@ I'm currently working on DevSync, a platform aimed at creating a healthy competi
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="44" height="44" />
 </p>
 
-<h3>Frameworks & Libraries</h3>
+<h4>Frameworks & Libraries</h4>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="44" height="44" />
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="44" height="44" />
@@ -33,7 +33,7 @@ I'm currently working on DevSync, a platform aimed at creating a healthy competi
   <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="44" height="44" />
 </p>
 
-<h3>Databases & Cloud</h3>
+<h4>Databases & Cloud</h4>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="44" height="44" />
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="44" height="44" />
@@ -43,7 +43,7 @@ I'm currently working on DevSync, a platform aimed at creating a healthy competi
   <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" width="44" height="44" />
 </p>
 
-<h3>Tools & Environment</h3>
+<h4>Tools & Environment</h4>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="44" height="44" />
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="44" height="44" />
