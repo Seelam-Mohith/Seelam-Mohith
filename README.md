@@ -1,6 +1,6 @@
 
 
-## `whoami`
+## >`whoami`
 
 Hi, I'm Mohith Seelam, a Computer Science Engineering student passionate about building scalable software, AI applications, and cybersecurity solutions. I love solving problems, learning new technologies, and turning ideas into real-world projects.
 
