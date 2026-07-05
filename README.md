@@ -8,7 +8,11 @@ My primary tech stack includes JavaScript, Python, Java, React, Node.js, Express
 
 Currently, I am focused on strengthening my expertise in Data Structures & Algorithms, Full Stack Development, AI/ML, and Cybersecurity while actively contributing to GitHub and building real-world projects.
 
-I'm currently working on DevSync, a platform aimed at creating a healthy competitive coding ecosystem among friends, encouraging consistency, skill development, and mutual growth.
+I'm currently working on **SplitShare**, It is a collaborative platform for managing shared subscriptions and recurring expenses. Create groups, track member payments, send reminders, and simplify cost sharing with ease.
+
+My favourite project right now is **DevSync** - because it combines competitive programming with social collaboration. It enables friends to compete, track their LeetCode and GitHub progress through dynamic leaderboards, stay motivated, and grow together as developers.
+
+**Try DevSync: https://devsyncc.vercel.app**
 
 ## Tech Stack
 
