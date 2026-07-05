@@ -1,6 +1,6 @@
 
 
-## >`whoami`
+## > `whoami`
 
 Hi, I'm Mohith Seelam, a Computer Science Engineering student passionate about building scalable software, AI applications, and cybersecurity solutions. I love solving problems, learning new technologies, and turning ideas into real-world projects.
 
@@ -12,7 +12,7 @@ My favourite project right now is **DevSync** - because it combines competitive 
 
 **Try DevSync: https://devsyncc.vercel.app** (If you like the project, don't forget to give it a star on Github!!)
 
-## Tech Stack
+## > `tech-stack`
 
 <table>
 <tr>
@@ -38,7 +38,7 @@ My favourite project right now is **DevSync** - because it combines competitive 
 </tr>
 </table>
 
-## Connect
+## > `ping-me`
 
 * LinkedIn: https://www.linkedin.com/in/mohith-seelam/
 * Email: seelammohith2222@gmail.com
