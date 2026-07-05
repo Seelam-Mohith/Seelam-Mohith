@@ -1,8 +1,8 @@
 
 
-## whoami
+# `whoami`
 
-Hi, I'm **Mohith Seelam**, a Computer Science Engineering student passionate about software development, artificial intelligence, cybersecurity, and problem solving. I enjoy building practical applications, exploring new technologies, and continuously improving my skills through projects, hackathons, and competitive programming. I have built projects ranging from AI-powered applications to full-stack web platforms, with a focus on creating solutions that are scalable, efficient, and user-friendly.
+Hi, I'm Mohith Seelam, a Computer Science Engineering student passionate about building scalable software, AI applications, and cybersecurity solutions. I love solving problems, learning new technologies, and turning ideas into real-world projects.
 
 Currently, I am focused on strengthening my expertise in Data Structures & Algorithms, Full Stack Development, AI/ML, and Cybersecurity while actively contributing to GitHub and building real-world projects.
 
