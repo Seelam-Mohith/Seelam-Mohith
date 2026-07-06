@@ -10,7 +10,8 @@ I'm currently working on **SplitShare**, It is a collaborative platform for mana
 
 My favourite project right now is **DevSync** - because it combines competitive programming with social collaboration. It enables friends to compete, track their LeetCode and GitHub progress through dynamic leaderboards, stay motivated, and grow together as developers.
 
-**Try DevSync: https://devsyncc.vercel.app** (If you like the project, don't forget to give it a star on Github!!)
+**Try DevSync: https://devsyncc.vercel.app** 
+⭐ If you like the project, don't forget to give it a star on Github!!
 
 ## > `tech-stack`
 
@@ -42,4 +43,4 @@ My favourite project right now is **DevSync** - because it combines competitive 
 
 * LinkedIn: https://www.linkedin.com/in/mohith-seelam/
 * Email: seelammohith2222@gmail.com
-
+* Mobile: +91 7981232166
