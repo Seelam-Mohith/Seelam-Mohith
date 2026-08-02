@@ -49,3 +49,10 @@ My favourite project right now is **DevSync** - because it combines competitive 
 * LinkedIn: https://www.linkedin.com/in/mohith-seelam/
 * Email: seelammohith2222@gmail.com
 * Mobile: +91 7981232166
+
+
+<div align="center">
+
+<img src="./c1e8d834d0696f426d958d72a45a76a3.jpg" alt="GitHub Banner" width="100%" />
+
+</div>
