@@ -22,6 +22,11 @@ My favourite project right now is **DevSync** - because it combines competitive 
 
 <table>
 <tr>
+
+<td valign="top">
+
+<table>
+<tr>
 <td>
 
 ### Languages
@@ -41,6 +46,17 @@ My favourite project right now is **DevSync** - because it combines competitive 
 <img src="https://skillicons.dev/icons?i=git,vscode,linux,ubuntu,figma" />
 
 </td>
+</tr>
+</table>
+
+</td>
+
+<td valign="middle" align="center">
+
+<img src="..gif" width="110" alt="Spiderman GIF" />
+
+</td>
+
 </tr>
 </table>
 
