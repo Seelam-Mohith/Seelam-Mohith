@@ -72,6 +72,6 @@ My favourite project right now is **DevSync** - because it combines competitive 
 
 <div align="center">
 
-<img src="./spidey-banner.jpeg" alt="GitHub Banner" width="10%" />
+<img src="./spidey-banner.jpeg" alt="GitHub Banner" width="25%" />
 
 </div>
