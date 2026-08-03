@@ -20,6 +20,8 @@ My favourite project right now is **DevSync** - because it combines competitive 
 
 ## > `tech-stack`
 
+<div align="center">
+
 <table>
 <tr>
 
@@ -59,6 +61,8 @@ My favourite project right now is **DevSync** - because it combines competitive 
 
 </tr>
 </table>
+
+</div>
 
 ## > `ping-me`
 
