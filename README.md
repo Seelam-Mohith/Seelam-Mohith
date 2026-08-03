@@ -53,7 +53,7 @@ My favourite project right now is **DevSync** - because it combines competitive 
 
 <td valign="middle" align="center">
 
-<img src="..gif" width="110" alt="Spiderman GIF" />
+<img src="./SMBND_Emojis_2.gif" width="110" alt="Spiderman GIF" />
 
 </td>
 
