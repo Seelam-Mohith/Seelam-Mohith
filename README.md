@@ -70,8 +70,8 @@ My favourite project right now is **DevSync** - because it combines competitive 
 * Email: seelammohith2222@gmail.com
 * Mobile: +91 7981232166
 
-<div align="center">
+<!-- <div align="center">
 
-<img src="./spidey-banner.jpeg" alt="GitHub Banner" width="25%" />
+<img src="./bnd-Photoroom.png" alt="GitHub Banner" width="5%" />
 
-</div>
+</div> -->
