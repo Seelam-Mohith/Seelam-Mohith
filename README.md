@@ -16,7 +16,7 @@ My favourite project right now is **DevSync** - because it combines competitive 
 
 **Try QuantShield: https://quantshield.vercel.app** - AI-Powered Phishing Detection Platform with SMS, URL, Email, and Network Intrusion 
 
-⭐ If you like the projects, please don't forget to give it a star on Github!!!
+⭐ If you like the projects, please don't forget to give it a star on Github!!
 
 ## > `tech-stack`
 
