@@ -12,9 +12,9 @@ My favourite project right now is **DevSync** - because it combines competitive 
 
 **Try My Projects:**
 
-**Try DevSync: https://devsyncx.netlify.app** - Collaborative coding platform to compete with friends
+<a href="https://devsyncx.netlify.app" target="_blank" rel="noopener noreferrer">Try DevSync</a> - Collaborative coding platform to compete with friends
 
-**Try QuantShield: https://quantshield.vercel.app** - AI-Powered Phishing Detection Platform with SMS, URL, Email, and Network Intrusion 
+<a href="https://quantshield.vercel.app" target="_blank" rel="noopener noreferrer">Try QuantShield</a> - AI-Powered Phishing Detection Platform with SMS, URL, Email, and Network Intrusion
 
 ⭐ If you like the projects, please don't forget to give it a star on Github!!
 
