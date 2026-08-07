@@ -6,7 +6,7 @@ Hi, I'm Mohith Seelam, a Computer Science Engineering student passionate about b
 
 Currently, I am focused on strengthening my expertise in Data Structures & Algorithms, Full Stack Development, AI/ML, and Cybersecurity while actively contributing to GitHub and building real-world projects.
 
-I'm currently working on **SplitShare**, It is a collaborative platform for managing shared subscriptions and recurring expenses. Create groups, track member payments, send reminders, and simplify cost sharing with ease.
+I'm currently working on **SplitXSync**, It is a collaborative platform for managing shared subscriptions and recurring expenses. Create groups, track member payments, send reminders, and simplify cost sharing with ease.
 
 My favourite project right now is **DevSync** - because it combines competitive programming with social collaboration. It enables friends to compete, track their LeetCode and GitHub progress through dynamic leaderboards, stay motivated, and grow together as developers.
 
